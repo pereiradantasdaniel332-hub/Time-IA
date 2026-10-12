@@ -1,0 +1,13 @@
+{
+  "name": "IA Pro Demo",
+  "short_name": "IA Pro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111d",
+  "theme_color": "#0b5cff",
+  "description": "Demo do aplicativo de IA com interface moderna e PWA",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
+
